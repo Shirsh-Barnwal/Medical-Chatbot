@@ -1,4 +1,4 @@
-#Creating firectories
+#Creating directories
 
 mkdir -p src
 mkdir -p research
